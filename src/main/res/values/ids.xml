@@ -1,0 +1,4 @@
+<resources>
+    <!-- 适配器中控件容器对象标签 -->
+    <item name="adapter_viewholder_tag" type="id" />
+</resources>
